@@ -1,2 +1,2 @@
 # TestEmotes-
-Small front-end only app that helps test what your emote would look like on popular websites.
+Small Client-Side only app that helps test what your emote would look like on popular content creator websites.
